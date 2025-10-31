@@ -1,3 +1,5 @@
+package br.ulbra.DAO;
+
 import br.ulbra.DAO.AvaliacaoDAO;
 import br.ulbra.DAO.ReceitaDAO;
 import br.ulbra.Model.Avaliacao;

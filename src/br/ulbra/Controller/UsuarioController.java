@@ -5,6 +5,7 @@
  */
 package br.ulbra.Controller;
 
+import br.ulbra.DAO.UsuarioDAO;
 import br.ulbra.Model.Avaliacao;
 import br.ulbra.Model.Receita;
 import br.ulbra.Model.Usuario;
